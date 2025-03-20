@@ -1,5 +1,4 @@
 # Handwriting-Recognition-System
-A handwriting recognition system that converts handwritten characters and digits into machine-readable text using traditional computer vision techniques and deep learning. The project includes preprocessing, character segmentation, and classification using a Convolutional Neural Network (CNN).
 
 ## Overview
 This project aims to create a handwriting recognition system that converts handwritten characters and digits into machine-readable text. It uses traditional computer vision techniques and deep learning models, including a Convolutional Neural Network (CNN), to achieve accurate recognition.
